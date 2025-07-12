@@ -20,10 +20,11 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Desempenho_dos_Alunos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Concluído | 
-| 02 | Machine Learning                  | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-Funtamentos_Matemática_para_IA) |
-| 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
-| 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
-| 03 | Deep Learning (Parte 1)           | 🚧 Em andamento | [🔗 Acessar](https://github.com/RickBamberg/EAI-deep-learning) |
+| 03 | [Deep Learning](https://github.com/RickBamberg/EAI_03_Deep_Learning) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Conceitos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Modelo_Base) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Estudos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Estudos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Reais](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais) | ✅ Em Andamento | 
 | 04 | NLP e Transformers                | ⏳ Próximo      | – |
 | 05 | Visão Computacional               | ⏳ Próximo      | – |
 | 06 | MLOps e Deploy                    | ⏳ Próximo      | – |
