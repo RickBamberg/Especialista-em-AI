@@ -8,11 +8,13 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 
 ## 🚀 Módulos e Projetos
 
-| Nº | Módulo                            | Status          | Acesso |
-|----|-----------------------------------|-----------------|--------|
-| 01 | Fundamentos Matemáticos para IA   | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-fundamentos-matematica) |
-| 01 | [Fundamentos Matemáticos para IA](https://github.com/RickBamberg/EAI-fundamentos-matematica) | ✅ Concluído | – | 
-| 02 | Machine Learning (Fundamentos)    | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
+| Nº | Módulo                            | Status          |
+|----|-----------------------------------|-----------------|
+| 01 | [Fundamentos Matemáticos para IA](https://github.com/RickBamberg/EAI_01_Funtamentos_Matemática_para_IA) | ✅ Concluído | 
+|    |      [Vetores e Ttransformações](https://github.com/RickBamberg/EAI_01_Funtamentos_Matemática_para_IA/01_Vetores_e_transformações) | ✅ Concluído | 
+|    |      [Regressão Linear Manual](https://github.com/RickBamberg/EAI_01_Funtamentos_Matemática_para_IA/02_Regressão_linear_Manual) | ✅ Concluído | 
+|    |      [Algebra_linear](https://github.com/RickBamberg/EAI_01_Funtamentos_Matemática_para_IA/03_Algebra_linear) | ✅ Concluído | 
+| 02 | Machine Learning (Fundamentos)    | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-Funtamentos_Matemática_para_IA) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
 | 03 | Deep Learning (Parte 1)           | 🚧 Em andamento | [🔗 Acessar](https://github.com/RickBamberg/EAI-deep-learning) |
