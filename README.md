@@ -14,7 +14,11 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Vetores e Transformações](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/01_Vetores_e_Transformações) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Regressão Linear Manual](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/02_Regressão_Linear_Manual) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Algebra_linear](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/03_Algebra_linear) | ✅ Concluído | 
-| 02 | Machine Learning (Fundamentos)    | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-Funtamentos_Matemática_para_IA) |
+| 02 | [Machine Learning](https://github.com/RickBamberg/EAI_02_Machine_learning) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Fundamentos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Modelo_Base) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos) | ✅ Concluído | 
+| 02 | Machine Learning                  | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-Funtamentos_Matemática_para_IA) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
 | 03 | Deep Learning (Parte 1)           | 🚧 Em andamento | [🔗 Acessar](https://github.com/RickBamberg/EAI-deep-learning) |
