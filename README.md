@@ -22,7 +22,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Concluído | 
 | 03 | [Deep Learning](https://github.com/RickBamberg/EAI_03_Deep_Learning) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Conceitos) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Modelo_Base) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Modelos_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Estudos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Estudos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Reais](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais) | ✅ Em Andamento | 
 | 04 | NLP e Transformers                | ⏳ Próximo      | – |
