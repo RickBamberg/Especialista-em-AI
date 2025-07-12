@@ -25,11 +25,13 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Modelos_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Estudos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Estudos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Reais](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais) | ✅ Em Andamento | 
-| 04 | NLP e Transformers                | ⏳ Próximo      | – |
-| 05 | Visão Computacional               | ⏳ Próximo      | – |
-| 06 | MLOps e Deploy                    | ⏳ Próximo      | – |
-| 07 | IA Generativa                     | ⏳ Próximo      | – |
-| 08 | Projetos Finais                   | ⏳ Em breve     | – |
+| 04 | Processamento de Linguagem Natural | ⏳ Próximo      | – |
+| 05 | NLP e Transformers                | ⏳ Próximo      | – |
+| 06 | Visão Computacional               | ⏳ Próximo      | – |
+| 07 | MLOps e Deploy                    | ⏳ Próximo      | – |
+| 08 | IA Generativa                     | ⏳ Próximo      | – |
+| 09 | LLMs                              | ⏳ Próximo      | – |
+| 10 | Projetos Finais                   | ⏳ Em breve     | – |
 
 ---
 
@@ -53,16 +55,9 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 
 ## 📫 Contato
 
-- GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- Email: seuemail@email.com
+- GitHub: [https://github.com/RickBamberg](https://github.com/RickBamberg)
+- LinkedIn: [https://www.linkedin.com/in/carlos-henrique-bamberg-marques-b4174116rick.bamberg@gmail.com](https://www.linkedin.com/in/carlos-henrique-bamberg-marques-b4174116rick.bamberg@gmail.com)
+- Email: rick.bamberg@gmail.com
 
 ---
 
-## 🧭 Status Geral
-
-- ✅ Fundamentos concluídos
-- ✅ Machine Learning completo
-- 🚧 Deep Learning em andamento
-- 🗂️ Estrutura modular com 1 repositório por tema
-- 🛠️ Repositório atualizado à medida que os módulos avançam
