@@ -19,6 +19,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Modelo_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Concluído | 
 | 02 | Machine Learning                  | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-Funtamentos_Matemática_para_IA) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
