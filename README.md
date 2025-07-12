@@ -11,9 +11,9 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
 | 01 | [Fundamentos Matemáticos para IA](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Vetores e Transformações](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/01_Vetores_e_Transformações) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Regressão Linear Manual](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/02_Regressão_linear_Manual) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Algebra_linear](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/03_Algebra_linear) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Vetores e Transformações](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/01_Vetores_e_Transformações) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Regressão Linear Manual](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/02_Regressão_linear_Manual) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Algebra_linear](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/03_Algebra_linear) | ✅ Concluído | 
 | 02 | Machine Learning (Fundamentos)    | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-Funtamentos_Matemática_para_IA) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
 | 02 | Machine Learning (Parte 1)        | ✅ Concluído    | [🔗 Acessar](https://github.com/RickBamberg/EAI-machine-learning) |
