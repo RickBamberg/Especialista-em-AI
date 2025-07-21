@@ -30,7 +30,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | 04 | [Processamento de Linguagem Natual](https://github.com/RickBamberg/EAI_04_NLP_Classico) | ✅ Concluído | – |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Fundamentos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Modelos_Base) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Estudos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | 🚧 Em Andamento | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | 🚧 Em Andamento | 
 | 05 | NLP e Transformers                | ⏳ Próximo      | – |
 | 06 | Visão Computacional               | ⏳ Próximo      | – |
 | 07 | MLOps e Deploy                    | ⏳ Próximo      | – |
