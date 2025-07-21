@@ -27,7 +27,10 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Reais](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Previsão de Preco de Ações](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais/Previsao_Acoes) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Classificação de Artes](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais/ArtClassifier) | ✅ Concluído | 
-| 04 | Processamento de Linguagem Natual | 🚧 Em Andamento | – |
+| 04 | [Processamento de Linguagem Natual](https://github.com/RickBamberg/EAI_04_NLP_Classico) | ✅ Concluído | – |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Fundamentos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Modelos_Base) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Estudos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | 🚧 Em Andamento | 
 | 05 | NLP e Transformers                | ⏳ Próximo      | – |
 | 06 | Visão Computacional               | ⏳ Próximo      | – |
 | 07 | MLOps e Deploy                    | ⏳ Próximo      | – |
