@@ -32,7 +32,8 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Modelos_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Analise de Feedback](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Analise_de_Feedback) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Sistema de Busca Inteligente para FAQs](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Sistema_de_Busca Inteligente_para_FAQs) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Sistema de Busca Inteligente para FAQs](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Analise_de_Feedback) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Sistema de Busca Inteligente para FAQs](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Sistema_de_Busca_Inteligente_para_FAQs) | ✅ Concluído | 
 | 05 | NLP e Transformers                | 🚧 Em Andamento | – |
 | 06 | Visão Computacional               | ⏳ Próximo      | – |
 | 07 | MLOps e Deploy                    | ⏳ Próximo      | – |
