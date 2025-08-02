@@ -30,8 +30,10 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | 04 | [Processamento de Linguagem Natual](https://github.com/RickBamberg/EAI_04_NLP_Classico) | ✅ Concluído | – |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Fundamentos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Modelos_Base) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | 🚧 Em Andamento | 
-| 05 | NLP e Transformers                | ⏳ Próximo      | – |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Analise de Feedback](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Analise_de_Feedback) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Sistema de Busca Inteligente para FAQs](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Sistema_de_Busca Inteligente_para_FAQs) | ✅ Concluído | 
+| 05 | NLP e Transformers                | 🚧 Em Andamento | – |
 | 06 | Visão Computacional               | ⏳ Próximo      | – |
 | 07 | MLOps e Deploy                    | ⏳ Próximo      | – |
 | 08 | IA Generativa                     | ⏳ Próximo      | – |
@@ -60,8 +62,8 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 
 ## 📫 Contato
 
-- GitHub: [https://github.com/RickBamberg](https://github.com/RickBamberg)
-- LinkedIn: [https://www.linkedin.com/in/carlos-henrique-bamberg-marques](https://www.linkedin.com/in/carlos-henrique-bamberg-marques)
+- GitHub: [https://github.com/RickBamberg](https://github.com/RickBamberg/)
+- LinkedIn: [https://www.linkedin.com/in/carlos-henrique-bamberg-marques](https://www.linkedin.com/in/carlos-henrique-bamberg-marques/)
 - Email: [rick.bamberg@gmail.com](mailto:rick.bamberg@gmail.com)
 
 ---
