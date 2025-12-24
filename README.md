@@ -27,18 +27,22 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Reais](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Previsão de Preco de Ações](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais/Previsao_Acoes) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Classificação de Artes](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais/ArtClassifier) | ✅ Concluído | 
-| 04 | [Processamento de Linguagem Natual](https://github.com/RickBamberg/EAI_04_NLP_Classico) | ✅ Concluído | – |
+| 04 | [Processamento de Linguagem Natural](https://github.com/RickBamberg/EAI_05_NLP_com_Transformers) | ✅ Concluído | – |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Fundamentos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Modelos_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Analise de Feedback](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Analise_de_Feedback) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Sistema de Busca Inteligente para FAQs](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Sistema_de_Busca_Inteligente_para_FAQs) | ✅ Concluído | 
-| 05 | NLP e Transformers                | 🚧 Em Andamento | – |
-| 06 | Visão Computacional               | ⏳ Próximo      | – |
-| 07 | MLOps e Deploy                    | ⏳ Próximo      | – |
-| 08 | IA Generativa                     | ⏳ Próximo      | – |
-| 09 | LLMs                              | ⏳ Próximo      | – |
-| 10 | Projetos Finais                   | ⏳ Em breve     | – |
+| 05 | [NLP com Transformers](https://github.com/RickBamberg/EAI_04_NLP_Classico) | ✅ Concluído |
+| 06 | [Visão Computacional](https://github.com/RickBamberg/EAI_06_Visao_Computacional) | ✅ Concluído |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos OpenCV](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Fundamentos_OpenCV) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[OCR](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/OCR) | 🚧 Em Andamento | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Reconhecimento Ficial](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos/Reconhecimento_Facial) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[YOLOv5](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/YOLOv5) | ✅ Concluído | 
+| 07 | IA Generativa                     | 🚧 Em Andamento | – |
+| 08 | MLOps e Deploy                    | ⏳ Próximo      | – |
+| 09 | Projetos Finais                   | ⏳ Em breve     | – |
 
 ---
 
