@@ -10,7 +10,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
-| 01 | [Fundamentos Matemáticos para IA](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA) | ✅ Concluído | 
+| 01 | [Fundamentos Matemáticos para IA](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA) | ✅ Finalizada | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Vetores e Transformações](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/01_Vetores_e_Transformações) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Regressão Linear Manual](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/02_Regressão_Linear_Manual) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Algebra_linear](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/03_Algebra_linear) | ✅ Concluído | 
