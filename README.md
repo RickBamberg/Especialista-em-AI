@@ -21,14 +21,14 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Desempenho_dos_Alunos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Concluído | 
 | 03 | [Deep Learning](https://github.com/RickBamberg/EAI_03_Deep_Learning) | ✅ Concluído | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Conceitos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Conceitos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Modelos_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Estudos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Estudos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos_Reais](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Previsão de Preco de Ações](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais/Previsao_Acoes) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Classificação de Artes](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Projetos_Reais/ArtClassifier) | ✅ Concluído | 
 | 04 | [Processamento de Linguagem Natural](https://github.com/RickBamberg/EAI_05_NLP_com_Transformers) | ✅ Concluído | – |
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Conceitos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Fundamentos) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Fundamentos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Modelos_Base) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Analise de Feedback](https://github.com/RickBamberg/EAI_04_NLP_Classico/tree/main/Projetos/Analise_de_Feedback) | ✅ Concluído | 
@@ -40,7 +40,12 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Reconhecimento Ficial](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos/Reconhecimento_Facial) | ✅ Concluído | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[YOLOv5](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/YOLOv5) | ✅ Concluído | 
-| 07 | IA Generativa                     | 🚧 Em Andamento | – |
+| 07 | [IA Generativa](https://github.com/RickBamberg/EAI_07_AI_Generative) | 🚧 Em Andamento |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos LLM](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/01_Fundamentos_LLM) | ✅ Concluído | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelos Pre Treinados](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/02_Modelos_PreTreinados) | 🚧 Em Andamento | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[RAG](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/03_RAG) | ⏳ Próximo | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fine Tuning](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/04_Fine_Tuning) | ⏳ Próximo | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Agentes](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/05_Agentes) | ⏳ Próximo | 
 | 08 | MLOps e Deploy                    | ⏳ Próximo      | – |
 | 09 | Projetos Finais                   | ⏳ Em breve     | – |
 
