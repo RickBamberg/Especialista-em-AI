@@ -19,6 +19,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelo Base](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Modelo_Base) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Desempenho dos Alunos](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Desempenho_dos_Alunos) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Detecção de Fraudes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Deteccao_Fraudes) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes](https://github.com/RickBamberg/EAI_02_Machine_learning/tree/main/Projetos/Diabetes) | ✅ Finalizado | 
 | 03 | [Deep Learning](https://github.com/RickBamberg/EAI_03_Deep_Learning) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos](https://github.com/RickBamberg/EAI_03_Deep_Learning/tree/main/Conceitos) | ✅ Finalizado | 
