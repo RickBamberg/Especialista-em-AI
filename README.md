@@ -47,7 +47,8 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[RAG](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/03_RAG) | ⏳ Próximo | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fine Tuning](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/04_Fine_Tuning) | ⏳ Próximo | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Agentes](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/05_Agentes) | ⏳ Próximo | 
-| 08 | MLOps e Deploy                    | ⏳ Próximo      | – |
+| 08 | [MLOps e Implantação](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao) | ✅ Finalizado |
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Deteccao Fraudes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Deteccao_Fraudes_MLOps) | ✅ Finalizado | 
 | 09 | Projetos Finais                   | ⏳ Em breve     | – |
 
 ---
