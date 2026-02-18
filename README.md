@@ -49,6 +49,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Agentes](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/05_Agentes) | ⏳ Próximo | 
 | 08 | [MLOps e Implantação](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao) | ✅ Finalizado |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Deteccao Fraudes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Deteccao_Fraudes_MLOps) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Diabetes_MLOps) | ✅ Finalizado | 
 | 09 | Projetos Finais                   | ⏳ Em breve     | – |
 
 ---
