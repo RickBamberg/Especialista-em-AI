@@ -39,6 +39,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos OpenCV](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Fundamentos_OpenCV) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[OCR](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/OCR) | 🚧 Em Andamento | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Detector de Objetos Coloridos](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos/Detector_Objetos_Coloridos) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Reconhecimento Ficial](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos/Reconhecimento_Facial) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[YOLOv5](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/YOLOv5) | ✅ Finalizado | 
 | 07 | [IA Generativa](https://github.com/RickBamberg/EAI_07_AI_Generative) | 🚧 Em Andamento |
