@@ -37,17 +37,19 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 | 05 | [NLP com Transformers](https://github.com/RickBamberg/EAI_04_NLP_Classico) | ✅ Finalizado |
 | 06 | [Visão Computacional](https://github.com/RickBamberg/EAI_06_Visao_Computacional) | ✅ Finalizado |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos OpenCV](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Fundamentos_OpenCV) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[OCR](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/OCR) | 🚧 Em Andamento | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[OCR](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/OCR) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Detector de Objetos Coloridos](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos/Detector_Objetos_Coloridos) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Reconhecimento Ficial](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/Projetos/Reconhecimento_Facial) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[YOLOv5](https://github.com/RickBamberg/EAI_06_Visao_Computacional/tree/main/YOLOv5) | ✅ Finalizado | 
-| 07 | [IA Generativa](https://github.com/RickBamberg/EAI_07_AI_Generative) | 🚧 Em Andamento |
+| 07 | [IA Generativa](https://github.com/RickBamberg/EAI_07_AI_Generative) | ✅ Finalizado |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fundamentos LLM](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/01_Fundamentos_LLM) | ✅ Finalizado | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelos Pre Treinados](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/02_Modelos_PreTreinados) | 🚧 Em Andamento | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[RAG](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/03_RAG) | ⏳ Próximo | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fine Tuning](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/04_Fine_Tuning) | ⏳ Próximo | 
-|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Agentes](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/05_Agentes) | ⏳ Próximo | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Modelos Pre Treinados](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/02_Modelos_PreTreinados) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[RAG](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/03_RAG) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Fine Tuning](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/04_Fine_Tuning) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Agentes](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/05_Agentes) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Projetos Reais](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/06_Projetos_Reais) | ✅ Finalizado | 
+|    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Assistente Tecnico IA](https://github.com/RickBamberg/EAI_07_AI_Generative/tree/main/06_Projetos_Reais/Assistente_Tecnico_IA) | ✅ Finalizado | 
 | 08 | [MLOps e Implantação](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao) | ✅ Finalizado |
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Deteccao Fraudes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Deteccao_Fraudes_MLOps) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Diabetes MLOps](https://github.com/RickBamberg/EAI_08_MLOps_e_Implantacao/tree/main/Diabetes_MLOps) | ✅ Finalizado | 
