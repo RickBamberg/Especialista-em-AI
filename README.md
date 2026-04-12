@@ -10,6 +10,7 @@ Este repositório serve como **índice central** de todos os módulos da minha t
 
 | Nº | Módulo                            | Status          |
 |----|-----------------------------------|-----------------|
+| 00 | [Instalação e Configurações](https://github.com/RickBamberg/EAI_00_Install_Config) | ✅ Finalizado | 
 | 01 | [Fundamentos Matemáticos para IA](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Vetores e Transformações](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/01_Vetores_e_Transformações) | ✅ Finalizado | 
 |    | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Regressão Linear Manual](https://github.com/RickBamberg/EAI_01_Funtamentos_Matematica_para_IA/tree/main/02_Regressão_Linear_Manual) | ✅ Finalizado | 
